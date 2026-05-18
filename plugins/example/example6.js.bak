@@ -1,6 +1,6 @@
 const example = async (m, { conn }) => {
 
-return conn.sendAiMessage(m.chat, [
+return conn.sendAiMessags(m.chat, [
   // type 2: normal text message
   { type: 2, text: "JavaScript example" },
 

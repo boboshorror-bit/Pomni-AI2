@@ -38,8 +38,8 @@ config.info = {
   idChannel: "120363225356834044@newsletter",
   urls: {
     repo: "https://github.com/deveni0/Pomni-AI",
-    api: "https://wa.me/201110312474",
-    channel: "https://wa.me/201110312474"
+    api: "https://emam-api.web.id",
+    channel: "https://whatsapp.com/channel/0029VbDDesV1SWsxbj6F2z2V"
   },
   copyright: { 
     pack: 'ℌ𝔞𝔨𝔯 🥂💗', 

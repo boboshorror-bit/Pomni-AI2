@@ -34,16 +34,17 @@ if (!global.db) {
 const { config } = client;
 config.info = { 
   nameBot: "♡ ℌ𝔞𝔨𝔯  👾⚡ 〈", 
-  nameChannel: "𐌀ᘖᔦ ~ 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 🥂💗", 
-  idChannel: "120363225356834044@newsletter",
+  nameChannel: "ℌ𝔞𝔨𝔯 ~ 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 🥂💗", 
+  idChannel: "120363383321527814@newsletter",
+  ",
   urls: {
     repo: "https://github.com/deveni0/Pomni-AI",
     api: "https://emam-api.web.id",
-    channel: "https://whatsapp.com/channel/0029VbDDesV1SWsxbj6F2z2V"
+    channel: "https://whatsapp.com/channel/0029VbD6exo0VycJAa32Mn3n"
   },
   copyright: { 
     pack: 'ℌ𝔞𝔨𝔯 🥂💗', 
-    author: 'ℌ𝔞𝔨𝔯 🥂💗'
+    author: 'ℌ𝔞𝔨𝔯 '
   },
   images: [
     "https://i.pinimg.com/originals/11/26/97/11269786cdb625c60213212aa66273a9.png",

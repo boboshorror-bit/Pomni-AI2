@@ -10,13 +10,13 @@ const client = new Client({
   fromMe: false, 
   owners: [
   // Owner 1
-    { name: "ℌ𝔞𝔨𝔯 🥂⚡", lid: "201110312474@lid", jid: "972569311531@s.whatsapp.net" },
+    { name: "𝔥𝔞𝔨𝔯 ⚡👽", lid: "201110312474@lid", jid: "201110312474@s.whatsapp.net" },
   // Owner 2
-    { name: "𐌀ᘖᔦ 👽⚡", lid: "201110312474@lid", jid: "201144480436@s.whatsapp.net" },
+    { name: "𝔥𝔞𝔨𝔯 ⚡👽", lid: "201110312474@lid", jid: "201110312474@s.whatsapp.net" },
   // Owner 3
-    { name: "𝔦𝔱𝔠𝔥𝔦𝔤𝔬 ✨🍷", jid: "201008964196@s.whatsapp.net", lid: "50414477168824@lid" },
+    { name: "𝔦𝔱𝔠𝔥𝔦𝔤𝔬 ✨🍷", jid: "201008964196@s.whatsapp.net", lid: "201110312474@lid" },
   // Owner 4 
-   { name: "𝓣𝓸𝓳𝓲 ✨🍷", jid: "201125395123@s.whatsapp.net", lid: "51664513925368@lid" }
+   { name: "𝓣𝓸𝓳𝓲 ✨🍷", jid: "201125395123@s.whatsapp.net", lid: "201110312474@lid" }
   ],
   settings: { noWelcome: false },
   commandsPath: './plugins'
@@ -33,18 +33,17 @@ if (!global.db) {
 /* =========== Config ========== */
 const { config } = client;
 config.info = { 
-  nameBot: "♡ ℌ𝔞𝔨𝔯  👾⚡ 〈", 
-  nameChannel: "ℌ𝔞𝔨𝔯 ~ 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 🥂💗", 
-  idChannel: "120363383321527814@newsletter",
-  ",
+  nameBot: "♡ 𝔥𝔞𝔨𝔯  👾⚡ 〈", 
+  nameChannel: "𝔥𝔞𝔨𝔯  ~ 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 💗🥂", 
+  idChannel: "0029VbD6exo0VycJAa32Mn3n@newsletter",
   urls: {
     repo: "https://github.com/deveni0/Pomni-AI",
     api: "https://emam-api.web.id",
-    channel: "https://whatsapp.com/channel/0029VbD6exo0VycJAa32Mn3n",
+    channel: "https://whatsapp.com/channel/0029VbD6exo0VycJAa32Mn3n"
   },
   copyright: { 
-    pack: 'ℌ𝔞𝔨𝔯 🥂💗', 
-    author: 'ℌ𝔞𝔨𝔯 '
+    pack: '𝔥𝔞𝔨𝔯 🥂💗', 
+    author: '𝔥𝔞𝔨𝔯 '
   },
   images: [
     "https://i.pinimg.com/originals/11/26/97/11269786cdb625c60213212aa66273a9.png",

@@ -40,7 +40,7 @@ config.info = {
   urls: {
     repo: "https://github.com/deveni0/Pomni-AI",
     api: "https://emam-api.web.id",
-    channel: "https://whatsapp.com/channel/0029VbD6exo0VycJAa32Mn3n"
+    channel: "https://whatsapp.com/channel/0029VbD6exo0VycJAa32Mn3n",
   },
   copyright: { 
     pack: 'ℌ𝔞𝔨𝔯 🥂💗', 
